@@ -14,6 +14,12 @@
 - [Google Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/?hl=en)
 - [Accelerated Mobile Pages (AMP)](https://www.ampproject.org/)
 
+## Hybrid apps
+- [Meteor](https://www.meteor.com/) Build APP with JavaScript for web, mobile, and desktop
+- [Apache Cordova](https://cordova.apache.org/) Mobile apps with HTML, CSS & JS Target multiple platforms with one code base Free and open source
+- [Crosswalk](https://crosswalk-project.org/) web application runtime
+- [Ionic](http://ionicframework.com/) HTML5 Hybrid mobile app framework
+
 ## Documetation 
 
 - [Jupyter](http://jupyter.org/) a web-based interactive computing platform combines live code, equations, narrative text, visualizations, interactive dashboards and other media.
