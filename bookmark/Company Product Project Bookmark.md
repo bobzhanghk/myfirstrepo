@@ -20,6 +20,10 @@
 - [Kandy](https://www.kandy.io/)  WebRTC PaaS 
 - [JsSIP](http://jssip.net/)  the Javascript SIP library that supports WebRTC
 
+## Cloud Communication 
+- [RingCentral](https://www.ringcentral.com/) Phone system , VoIP, Cloud PBX
+- [荣联云通讯](http://www.yuntongxun.com/) 互联网通讯服务（语音，短信，呼叫中心，IM）
+
 ## Network Management 
 
 - [Zabbix](http://www.zabbix.com/)  The Enterprise-Class Open Source Network Monitoring Solution 
@@ -33,6 +37,8 @@
 
 - [PhoneGap](http://phonegap.com/)  free and open source framework that allows you to create mobile apps using standardized web APIs for the platforms you care about.
 - [Apache Cordova](http://cordova.apache.org/#top)   a platform for building native mobile applications using HTML, CSS and JavaScript
+- [Meteor](https://www.meteor.com/) a open source platform for web, mobile and desktop using JavaScript 
+- [Ionic](http://ionicframework.com/) Advanced HTML5 Hybird mobile App Framework
 
 ## SMS 
 - [Twilio](https://www.twilio.com/)  APIs for SMS, VoIP and Voice in the Cloud
